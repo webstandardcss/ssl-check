@@ -70,11 +70,11 @@ This means you have $(DIFF) days
 remaining before your secure certificate 
 will expire leaving your website unprotected.
 
-To stop these messages, renew the startssl.com certificate for
+To stop these messages, renew the SSL certificate for
 this domain ${DOMAIN} within the next $(DIFF) days.
 
 Thank you,
-BoonYah Management Team
+BY Management Team
 
 EOF
 ); MESSAGE=${MESSAGE%a}
