@@ -5,6 +5,8 @@
 # Author: Trey Brister 2014
 #
 # URL: http://www.shellhacks.com/en/HowTo-Check-SSL-Certificate-Expiration-Date-from-the-Linux-Shell
+# URL: http://stackoverflow.com/questions/5155923/sending-a-mail-from-a-linux-shell-script
+# URL: http://stackoverflow.com/questions/4946785/how-to-find-the-difference-in-days-between-two-dates
 # URL: http://www.thegeekstuff.com/2011/07/bash-for-loop-examples/
 #
 ######################################
